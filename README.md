@@ -2,9 +2,10 @@
 
 # Grace Edwards, Ryan Ruhde, Micaela Carroll, Chris I. Baker
 
-# This repo contains scripts for the registered report:
+**# This repo contains scripts for the registered report:
+**
+**# Stage 1: registered with Peer Community in Registered Reports: https://osf.io/bce7u
+# Recommendation: https://rr.peercommunityin.org/articles/rec?id=213**
 
-# Stage 1: registered with Peer Community in Registered Reports: https://osf.io/bce7u
-# Recommendation: https://rr.peercommunityin.org/articles/rec?id=213
-
-# Stage 2: in preparation for submission to Peer Community in Registered Reports
+**# Stage 2: in preparation for submission to Peer Community in Registered Reports
+**
